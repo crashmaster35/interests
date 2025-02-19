@@ -1,6 +1,6 @@
 # interests
 
-Laravel Channels
+Laravel Channels<br>
 https://peerdh.com/es/blogs/programming-insights/understanding-laravel-broadcasting-channels
 
 Notificactions
