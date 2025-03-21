@@ -21,3 +21,16 @@ This documentation is really interesting abotu best practices and security:
 https://github.com/alexeymezenin/laravel-best-practices/blob/master/spanish.md?utm_source=chatgpt.com
 
 Prevent is best.
+
+Hubspot documentation to work with forms and emails.
+
+https://developers.hubspot.com/docs/reference/api/marketing/forms
+https://developers.hubspot.com/docs/reference/api/marketing/emails/transactional-emails
+https://developers.hubspot.com/docs/reference/api/marketing/emails/single-send-api
+
+
+Laravel 11 course. 
+
+
+Studing resources type routes
+![image](https://github.com/user-attachments/assets/bdad10c8-ad6d-46c8-a0c2-ac3659deef34)
